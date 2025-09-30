@@ -1,7 +1,7 @@
+# Backend Developer
 - 👋 Hi, I’m @edu-techgeek
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Godot (a framework for building Games)
-- 💞️ I’m looking to collaborate with senior Game developers
+- 👀 I’m intested in building Web API's & Databases
+- 💞️ I’m looking to collaborate with Backend developers
 - 📫 You can reach me @ chinedunwagbo557@gmail.com
 
 <!---
