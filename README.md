@@ -1,4 +1,4 @@
-# Backend Developer
+# Software Developer
 - 👋 Hi, I’m @edu-techgeek
 - 👀 I’m intested in building Web API's & Databases
 - 💞️ I’m looking to collaborate with Backend developers
